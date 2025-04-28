@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "560612359834",
+    "project_id": "moonlight-v4",
+    "storage_bucket": "moonlight-v4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:560612359834:android:0914382c3d5494ea08e923",
+        "android_client_info": {
+          "package_name": "com.mycompany.moonlightv4"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFs9c7-msnDs5JXqPTY2tT8RMd2BNAzcI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
